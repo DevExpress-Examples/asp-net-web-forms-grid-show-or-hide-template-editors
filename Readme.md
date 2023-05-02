@@ -37,7 +37,7 @@ Follow the steps below to show or hide template editors:
     </dx:GridViewDataTextColumn>
     ```
 
-2. For all editors, handle their server-side `Init` events and do the following in handlers:
+2. For all editors, handle their server-side `Init` events and do the following in the handlers:
 
    * Access an editor's template container and get the container's visible index.
    * Specify an editor's `ClientInstanceName` property based on the container's visible index.
