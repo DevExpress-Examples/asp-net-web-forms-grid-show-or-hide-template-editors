@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # How to show / hide control in Column's DataItemTemplate based on value of another control
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2284/)**
+**[[Run Online]](https://codecentral.devexpress.com/128542772/)**
 <!-- run online end -->
 
 
