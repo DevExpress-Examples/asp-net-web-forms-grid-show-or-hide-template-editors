@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - Display an editor in a templated column based on another editor's value
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2284/)**
+**[[Run Online]](https://codecentral.devexpress.com/128542772/)**
 <!-- run online end -->
 
 This example demonstrates how to add editors to templated columns and show or hide an editor based on another editor's selection.
