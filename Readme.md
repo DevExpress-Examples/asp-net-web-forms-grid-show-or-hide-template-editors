@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - Display an editor in a templated column based on another editor's value
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128542772/)**
-<!-- run online end -->
 
 This example demonstrates how to add editors to templated columns and show or hide an editor based on another editor's selection.
 
