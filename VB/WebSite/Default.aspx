@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
+<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
 <%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web" TagPrefix="dxwgv" %>
 <%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
@@ -11,7 +11,7 @@
         function OnSelectedIndexChangedEventHandler(radioButtonList, rowVisibleIndex) {
             var comboBox = ASPxClientControl.Cast('cmb_' + rowVisibleIndex.toString());
             var memo = ASPxClientControl.Cast('memo_' + rowVisibleIndex.toString());
-
+            
             var selectedItem = radioButtonList.GetSelectedItem();
             if (selectedItem) {
                 switch (selectedItem.value) {
